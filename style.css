@@ -1,0 +1,92 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.bottom{
+    color: rgb(0, 0, 0);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'comic', serif;
+    font-size: 20px;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: rgb(255, 0, 195);
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(157, 0, 255);
+    border-radius: 50px;
+    box-shadow: 1px  1px 20px rgb(0, 0, 0);
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+}
+span{
+    color: red;
+}
+.google_lens{
+    color: rgb(0, 68, 255);
+    height: 50px;
+    width: 50px;
+
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+g
+{
+color: rgb(0, 255, 0);
+}
+rg
+{
+color: rgb(97, 100, 98);
+}
+gm
+{
+color: rgb(34, 0, 255);
+}
+fr
+{
+color: black;
+background-color: rgb(150, 255, 255);
+font-size: large;
+}
+.result10 
+{
+    background-color: rgb(162, 254, 254);
+    border-radius: 25px;
+    margin-bottom: 2%;
+}
+nr
+{
+color: rgb(4, 0, 255);
+font-size: large;
+}
+
+
+body{
+    background-color:rgb(255, 251, 0);
+}
